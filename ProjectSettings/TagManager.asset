@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CoinTop
+  - CoinMiddle
+  - CoinBottom
+  - Drone
+  - Coin
+  - CoinEffect
+  - Fusion
+  - BatteryBar
+  - Bird
+  - Magnet
+  - Bullet
+  - BulletPowerUp
+  - EnergyPowerUp
+  - DroneBody
+  - DronePropeller
+  - xBonusTarget
+  - BulletBg
+  - GroundCollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Drone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 638983183
+    locked: 0
+  - name: Drone
+    uniqueID: 1544156507
+    locked: 0
